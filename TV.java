@@ -41,7 +41,7 @@ public class TV {
         System.out.println("status "+status);
     }
 
-     void main(String[] args) {
+     public static void main(String[] args) {
         TV tvSala = new TV();
         TV tvQuarto = new TV();
         TV tvCozinha = new TV();
